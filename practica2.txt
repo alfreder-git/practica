@@ -10,3 +10,6 @@ ahora vamos a probar el comando checkout
 ya vi que se borraron las anteriores versiones, que macana.
 
 otra prueba haremos 
+ahora voy a crear una nueva rama o branch para practicar mejor
+
+este es la primera version de la primera rama creada llamda nuevo
