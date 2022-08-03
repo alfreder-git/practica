@@ -5,3 +5,5 @@ muy bien archio creado con exito
 borramos la version3 por usar el comando reset con el "--hard"
 
 ahora vamos a probar el comando checkout
+
+ahora voy a crear una nueva rama o branch para practicar mejor
