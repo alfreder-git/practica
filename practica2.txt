@@ -7,3 +7,5 @@ borramos la version3 por usar el comando reset con el "--hard"
 ahora vamos a probar el comando checkout
 
 ya vi que se borraron las anteriores versiones, que macana.
+
+otra prueba haremos 
