@@ -2,3 +2,6 @@ hola soy alfred y estoy practicando
 
 muy bien archio creado con exito
 
+borramos la version3 por usar el comando reset con el "--hard"
+
+ahora vamos a probar el comando checkout
